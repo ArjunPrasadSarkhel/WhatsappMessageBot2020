@@ -7,7 +7,7 @@
 
 * Requires pyautogui (pip install pyautogui).
 
-#How does it works?
+# How does it works?
 
 * In the text.txt file, you can copy paste a whole script of a movie or any messages as per your choice. 
 
