@@ -1,5 +1,5 @@
 # WhatsappMessageBot2020
- A  bot with which you can annoy your friends by spamming them or just sending messages in particular.
+ A  bot with which you can annoy your friends by spamming them or just sending messages in particular. Works on Latest version of Whatsapp Web.
 
 # Requirements
 
